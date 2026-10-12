@@ -4952,7 +4952,6 @@ O=S(=O)(F)C,0.0,1.0,Train
 CI,0.0,0.0,Train
 O=CN,1.0,0.0,Train
 O=[N+]([O-])C,0.0,0.0,Train
-C#[SiH2+],1.0,0.0,Train
 O=S(=O)(N)CCl,1.0,0.0,Train
 O=P(F)(O)C,0.0,0.0,Train
 O=C(N)N,1.0,0.0,Train
