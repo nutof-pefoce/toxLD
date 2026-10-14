@@ -8354,7 +8354,6 @@ C(C(C(Cl)(Cl)Cl)Cl)Cl,0.0,0.0,Train
 O=S(=O)(O)c1cc(c(cc1(N))Cl)Cl,1.0,0.0,Train
 O=C(OCCC=CCC)C,1.0,0.0,Train
 O=C1NC(=O)c2ccccc12,1.0,0.0,Train
-O=C(O)CS,0.0,,Train
 c1ccc(cc1)[I+]c2ccccc2,0.0,0.0,Train
 O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3,0.0,0.0,Train
 O=C(c1ccc(cc1)C)c2ccc(n2C)CC(=O)O,0.0,0.0,Train
@@ -8388,18 +8387,6 @@ O=C(N)C3(N1CCCCC1)(CCN(CCCC(=O)c2ccc(F)cc2)CC3),0.0,0.0,Train
 O=C(OC(C)C)NP(=O)(N)N,0.0,0.0,Train
 O(C)C1CCCC1,0.0,0.0,Train
 N1=C2N(CCC1)CCCCC2,0.0,0.0,Train
-O=C(O)C(N)Cc1ccc(cc1)N(CCCl)CCCl,0.0,,Train
-O=C1OC3CCN2CC=C(COC(=O)C(O)(C)C(O)(C)C1C)C23,0.0,,Train
-O=C(CC)C(c1ccccc1)(c2ccccc2)CC(N(C)C)C,0.0,,Train
-OC(CN)CCl,0.0,,Train
-NC(C)Cc1ccccc1,0.0,,Train
-N#C,0.0,,Train
-O=C(NCC(O)c1cc(OC)ccc1(OC))CN,0.0,,Train
-O=C1Oc3ccccc3(C(O)=C1C(c2occc2)CC(=O)C),0.0,,Train
-NC1CCCCC1,0.0,,Train
-CC(CC(C)(C)C)C[Si](Cl)(Cl)Cl,0.0,,Train
-O=S1OCC2C(CO1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,0.0,,Train
-C[Si](CCCCl)(Cl)Cl,0.0,,Train
 O=S(=O)(O)c2c(O)ccc1ccccc12,1.0,0.0,Valid
 O=C(OCC=C)Nc1ccc(nc1(N))NCc2ccc(F)cc2,0.0,0.0,Valid
 O=C(Nc1ccc(cc1)Cl)c2cc3ccccc3(cc2(O)),1.0,0.0,Valid
