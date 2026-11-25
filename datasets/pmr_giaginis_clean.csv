@@ -53,7 +53,7 @@ Timolol,OC(COc1nsnc1N1CCOCC1)CNC(C)(C)C,2.0
 Tranylcypromine,NC1CC1c1ccccc1,2.2
 Trazodone,Clc1cccc(c1)N1CCN(CC1)CCCn1nc2n(c1=O)cccc2,1.6
 Triazolam,Clc1ccc2c(c1)C(=NCc1n2c(C)nn1)c1ccccc1Cl,2.8
-54,Trichlorethanol,OCC(Cl)(Cl)Cl,2.0
-55,Trimipramine,CN(CC(CN1c2ccccc2CCc2c1cccc2)C)C,1.6
-56,Venlafaxine,COc1ccc(cc1)C(C1(O)CCCCC1)CN(C)C,1.6
-57,Zolpidem,Cc1ccc(cc1)c1nc2n(c1CC(=O)N(C)C)cc(cc2)C,2.1
+Trichlorethanol,OCC(Cl)(Cl)Cl,2.0
+Trimipramine,CN(CC(CN1c2ccccc2CCc2c1cccc2)C)C,1.6
+Venlafaxine,COc1ccc(cc1)C(C1(O)CCCCC1)CN(C)C,1.6
+Zolpidem,Cc1ccc(cc1)c1nc2n(c1CC(=O)N(C)C)cc(cc2)C,2.1
